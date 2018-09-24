@@ -75,7 +75,7 @@ a:active {
 
 }
 
-h2 {
+h2, h3 {
 	margin: 1px;
 	padding: 2px;
 	border-radius: 9px;
