@@ -1,0 +1,106 @@
+.jumbotron{
+	background-color: #141414;
+	height: 90vh;
+	border-radius: 0;
+}
+
+.jumbotron h1{
+
+}
+
+#portfolio {
+	height: 100vh;
+}
+
+#skills{
+	height: 100vh;
+}
+
+
+
+#logo-icon{
+	color: orange;
+}
+
+#logo-icon:hover{
+	color: yellow;
+}
+
+.navbar-brand{
+	color: orange;
+}
+
+#brand-name{
+	color: red;
+}
+
+#brand-name:hover{
+	color: orange;
+	border-bottom: 2px solid red;
+}
+
+#nav-link-main:hover{
+	color: orange;
+	border-bottom: 2px solid yellow;
+}
+
+.fadeInLeft{
+	animation-delay: 2s;
+}
+
+#landing-about{
+	font-family: 'Montserrat', sans-serif;
+	color: #f2f2f2;
+	font-size: 5em;
+	padding-top: 20vh;
+	letter-spacing: 5px;
+}
+
+.fadeIn{
+	animation-duration: 5s;
+}
+
+#mission{
+	height: 100%;
+	background-color: #141414;
+	color: #f2f2f2;
+}
+
+.about-tags{
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#vision{
+	height: 100%;
+	background-color: #f2f2f2;
+	color: #141414;
+}
+
+
+.myframe{
+	width: 100%;
+	height: 500px;
+}
+
+.wrapper-bg{
+	background:url(../images/header/2.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/*.myNav{
+	background:transparent;
+	position: absolute;
+}*/
+
+/*Tablet*/
+@media only screen and (min-width: 401px) and (max-width: 960px){
+
+}
+
+
+/*Mobile*/
+@media only screen and (min-width: 401px) and (max-width: 400px){
+
+}
