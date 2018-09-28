@@ -2,20 +2,20 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	background-color: #7f7f7f;
+	background-color: #fff;
 }
 
 
 .navbar {
-	padding: 5px;
-	margin: 0;
+	height: 15vh;
 }
 
 #nav__msgene {
 	font-family: 'Poller One', cursive;
 	font-weight: bold;
 	font-size: 3em;
-	color: #ff69b4;
+	color: #ff8da1;
+	/*color: #ff69b4;*/
 	margin-bottom: 0;
 	word-wrap: break-word;
 }
@@ -41,10 +41,45 @@ u {
 	background: transparent;
 }
 
-/*.carousel{
-	width: 600px;
 
-}*/
+.shop_landing {
+	/*margin-top: 25vh;*/
+	font-family: 'Oleo Script', cursive;
+	width: 100%;
+	background: transparent;
+
+}
+
+.head_row {
+	background: url(../images/resizedsmaller.jpg);
+	height: 85vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+#carousel {
+	width: 100%;
+	height: 100%;
+}
+
 
 #carousel_start {
 	margin-top: 10px;
@@ -110,7 +145,7 @@ h2, h3 {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-}
+}*/
 
 
 /*desktop view*/
